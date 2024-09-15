@@ -38,7 +38,7 @@ Graduate Research Assistant, Kevin T. Crofton Department of Aerospace and Ocean 
 [kbsanjayvasanth@vt.edu](mailto:kbsanjayvasanth@vt.edu)
 
 ## Last Updated
-April 9, 2024 (Last Updated: July 29, 2024)
+July 30, 2024
 
 ---
 
