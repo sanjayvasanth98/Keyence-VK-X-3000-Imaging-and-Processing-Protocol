@@ -1,6 +1,6 @@
 # Keyence VK-X 3000 Imaging and Processing Protocol
 
-This repository contains a detailed Standard Operating Procedure (SOP) for imaging and processing surfaces using the **Keyence VK-X 3000** microscope, developed for the Materials Characterization Lab at Virginia Tech.
+This repository contains a detailed Standard Operating Procedure (SOP) for imaging and processing surfaces using the **Keyence VK-X 3000** 3D surface profiler, that the authors use in the Materials Characterization Lab at Virginia Tech.
 
 ## Overview
 
